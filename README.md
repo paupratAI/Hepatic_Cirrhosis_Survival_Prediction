@@ -1,4 +1,4 @@
-### Hepatic Cirrhosis Survival Prediction
+# Hepatic Cirrhosis Survival Prediction
 This project aims to predict the survival status of patients with liver cirrhosis using Machine Learning. I implemented three models: K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM), evaluating them based on precision, recall, accuracy, F1-score, and ROC curve analysis.
 
 #### Performance Metrics
