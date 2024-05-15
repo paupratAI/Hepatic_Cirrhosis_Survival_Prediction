@@ -1,9 +1,8 @@
 ### Report on Predicting Survival of Patients with Liver Cirrhosis
 
-This project aims to predict the survival status of patients with liver cirrhosis using Machine Learning. We implemented three models: K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM), evaluating them based on precision, recall, accuracy, F1-score, and ROC curve analysis.
+This project aims to predict the survival status of patients with liver cirrhosis using Machine Learning. I implemented three models: K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM), evaluating them based on precision, recall, accuracy, F1-score, and ROC curve analysis.
 
 #### Performance Metrics
-We used:
 - **Precision**: Proportion of correct positive predictions.
 - **Recall**: Proportion of actual positives correctly identified.
 - **Accuracy**: Overall correctness of predictions.
